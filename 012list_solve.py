@@ -15,5 +15,10 @@ N = int(input("N : "))
 for i in range(2,N):
     for j in range(1,10):
         print(i*j, end= " ")
+
+##1. git add .
+##2. git commit -m "for loop"
+##3. git push origin main
+##done.
         
         
