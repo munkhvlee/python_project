@@ -1,2 +1,1 @@
-# python_project
-hellop
+# pygame_sample
